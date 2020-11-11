@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Dev/Projects/C++/PEA/PEA_Projekt1/Graph.h
+string
+-
+vector
+-
+
+D:/Dev/Projects/C++/PEA/PEA_Projekt1/main.cpp
+iostream
+-
+Graph.h
+D:/Dev/Projects/C++/PEA/PEA_Projekt1/Graph.h
+conio.h
+-
+
