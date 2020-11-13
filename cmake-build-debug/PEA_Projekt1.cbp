@@ -86,6 +86,12 @@
 		<Unit filename="D:/Dev/Projects/C++/PEA/PEA_Projekt1/Graph.h">
 			<Option target="PEA_Projekt1"/>
 		</Unit>
+		<Unit filename="D:/Dev/Projects/C++/PEA/PEA_Projekt1/Node.cpp">
+			<Option target="PEA_Projekt1"/>
+		</Unit>
+		<Unit filename="D:/Dev/Projects/C++/PEA/PEA_Projekt1/Node.h">
+			<Option target="PEA_Projekt1"/>
+		</Unit>
 		<Unit filename="D:/Dev/Projects/C++/PEA/PEA_Projekt1/main.cpp">
 			<Option target="PEA_Projekt1"/>
 		</Unit>

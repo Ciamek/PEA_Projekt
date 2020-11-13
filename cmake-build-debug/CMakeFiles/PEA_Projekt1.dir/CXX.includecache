@@ -6,17 +6,15 @@
 
 #IncludeRegexTransform: 
 
-D:/Dev/Projects/C++/PEA/PEA_Projekt1/Graph.h
-string
+D:/Dev/Projects/C++/PEA/PEA_Projekt1/Node.cpp
+cmath
 -
-vector
--
-
-D:/Dev/Projects/C++/PEA/PEA_Projekt1/main.cpp
 iostream
 -
-Graph.h
-D:/Dev/Projects/C++/PEA/PEA_Projekt1/Graph.h
-conio.h
+Node.h
+D:/Dev/Projects/C++/PEA/PEA_Projekt1/Node.h
+
+D:/Dev/Projects/C++/PEA/PEA_Projekt1/Node.h
+vector
 -
 

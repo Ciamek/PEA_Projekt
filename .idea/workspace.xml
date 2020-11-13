@@ -7,12 +7,44 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="set(GCC_COVERAGE_COMPILE_FLAGS &quot;-Wall -O3&quot;) set(CMAKE_CXX_FLAGS &quot;${CMAKE_CXX_FLAGS} ${GCC_COVERAGE_COMPILE_FLAGS}&quot; )" />
     </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67a8b20f-99cc-4d60-b032-402e7260c7ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Node.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Node.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph.h.gch" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.h.gch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/Graph.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/Graph.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PEA_Projekt1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PEA_Projekt1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PEA_Projekt1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PEA_Projekt1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +73,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RunManager">
     <configuration name="PEA_Projekt1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PEA_Projekt1" TARGET_NAME="PEA_Projekt1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PEA_Projekt1" RUN_TARGET_NAME="PEA_Projekt1">
@@ -66,7 +98,11 @@
       <workItem from="1604958926385" duration="645000" />
       <workItem from="1605003522180" duration="746000" />
       <workItem from="1605038499998" duration="7945000" />
-      <workItem from="1605049190639" duration="1882000" />
+      <workItem from="1605049190639" duration="9662000" />
+      <workItem from="1605106331958" duration="537000" />
+      <workItem from="1605115269339" duration="13532000" />
+      <workItem from="1605217055078" duration="3828000" />
+      <workItem from="1605285298815" duration="11462000" />
     </task>
     <servers />
   </component>
@@ -74,6 +110,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1080" y="-254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605124288985">
+      <screen x="-1080" y="-849" width="1080" height="1880" />
+    </state>
+    <state x="-1080" y="-254" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605124288985" />
     <state x="345" y="656" key="#com.intellij.ide.util.MemberChooser" timestamp="1604789795356">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
@@ -86,60 +126,69 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="414" y="693" key="#xdebugger.XInspectDialog/0.0.1080.1880/1080.855.1920.1040@0.0.1080.1880" timestamp="1604793604029" />
-    <state x="432" y="982" key="#xdebugger.evaluate" timestamp="1604835268581">
-      <screen x="0" y="0" width="1080" height="1880" />
+    <state x="-648" y="133" key="#xdebugger.evaluate" timestamp="1605125454028">
+      <screen x="-1080" y="-849" width="1080" height="1880" />
     </state>
+    <state x="-648" y="133" key="#xdebugger.evaluate/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605125454028" />
     <state x="432" y="982" key="#xdebugger.evaluate/0.0.1080.1880/1080.855.1920.1040@0.0.1080.1880" timestamp="1604835268581" />
-    <state width="1037" height="564" key="GridCell.Tab.0.bottom" timestamp="1605048380017">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1605299648196">
+      <screen x="116" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1037" height="240" key="GridCell.Tab.0.bottom/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605047215904" />
-    <state width="1037" height="564" key="GridCell.Tab.0.bottom/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605048380017" />
+    <state width="1037" height="564" key="GridCell.Tab.0.bottom/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605136532136" />
+    <state width="1037" height="564" key="GridCell.Tab.0.bottom/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605103444601" />
     <state width="1037" height="351" key="GridCell.Tab.0.bottom/0.0.1080.1880/-1920.836.1920.1040@0.0.1080.1880" timestamp="1604708534261" />
     <state width="1037" height="225" key="GridCell.Tab.0.bottom/0.0.1080.1880/1080.1080.1920.1040@0.0.1080.1880" timestamp="1604926104534" />
     <state width="1037" height="121" key="GridCell.Tab.0.bottom/0.0.1080.1880/1080.855.1920.1040@0.0.1080.1880" timestamp="1604853640765" />
     <state width="1877" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604918389766" />
-    <state width="1037" height="564" key="GridCell.Tab.0.center" timestamp="1605048380016">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom/116.-1080.1920.1040/0.0.1920.1040@116.-1080.1920.1040" timestamp="1605299648196" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1605299648195">
+      <screen x="116" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1037" height="240" key="GridCell.Tab.0.center/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605047215904" />
-    <state width="1037" height="564" key="GridCell.Tab.0.center/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605048380016" />
+    <state width="1037" height="564" key="GridCell.Tab.0.center/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605136532136" />
+    <state width="1037" height="564" key="GridCell.Tab.0.center/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605103444600" />
     <state width="1037" height="351" key="GridCell.Tab.0.center/0.0.1080.1880/-1920.836.1920.1040@0.0.1080.1880" timestamp="1604708534261" />
     <state width="1037" height="225" key="GridCell.Tab.0.center/0.0.1080.1880/1080.1080.1920.1040@0.0.1080.1880" timestamp="1604926104533" />
     <state width="1037" height="121" key="GridCell.Tab.0.center/0.0.1080.1880/1080.855.1920.1040@0.0.1080.1880" timestamp="1604853640765" />
     <state width="1877" height="225" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604918389766" />
-    <state width="1037" height="564" key="GridCell.Tab.0.left" timestamp="1605048380016">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center/116.-1080.1920.1040/0.0.1920.1040@116.-1080.1920.1040" timestamp="1605299648195" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1605299648195">
+      <screen x="116" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1037" height="240" key="GridCell.Tab.0.left/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605047215904" />
-    <state width="1037" height="564" key="GridCell.Tab.0.left/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605048380016" />
+    <state width="1037" height="564" key="GridCell.Tab.0.left/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605136532135" />
+    <state width="1037" height="564" key="GridCell.Tab.0.left/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605103444599" />
     <state width="1037" height="351" key="GridCell.Tab.0.left/0.0.1080.1880/-1920.836.1920.1040@0.0.1080.1880" timestamp="1604708534261" />
     <state width="1037" height="225" key="GridCell.Tab.0.left/0.0.1080.1880/1080.1080.1920.1040@0.0.1080.1880" timestamp="1604926104533" />
     <state width="1037" height="121" key="GridCell.Tab.0.left/0.0.1080.1880/1080.855.1920.1040@0.0.1080.1880" timestamp="1604853640765" />
     <state width="1877" height="225" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604918389766" />
-    <state width="1037" height="564" key="GridCell.Tab.0.right" timestamp="1605048380016">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left/116.-1080.1920.1040/0.0.1920.1040@116.-1080.1920.1040" timestamp="1605299648195" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1605299648196">
+      <screen x="116" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1037" height="240" key="GridCell.Tab.0.right/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605047215904" />
-    <state width="1037" height="564" key="GridCell.Tab.0.right/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605048380016" />
+    <state width="1037" height="564" key="GridCell.Tab.0.right/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605136532136" />
+    <state width="1037" height="564" key="GridCell.Tab.0.right/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605103444600" />
     <state width="1037" height="351" key="GridCell.Tab.0.right/0.0.1080.1880/-1920.836.1920.1040@0.0.1080.1880" timestamp="1604708534261" />
     <state width="1037" height="225" key="GridCell.Tab.0.right/0.0.1080.1880/1080.1080.1920.1040@0.0.1080.1880" timestamp="1604926104533" />
     <state width="1037" height="121" key="GridCell.Tab.0.right/0.0.1080.1880/1080.855.1920.1040@0.0.1080.1880" timestamp="1604853640765" />
     <state width="1877" height="225" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604918389766" />
-    <state x="41" y="582" key="SettingsEditor" timestamp="1604699499893">
-      <screen x="0" y="0" width="1080" height="1880" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right/116.-1080.1920.1040/0.0.1920.1040@116.-1080.1920.1040" timestamp="1605299648196" />
+    <state x="-1039" y="-267" key="SettingsEditor" timestamp="1605124307492">
+      <screen x="-1080" y="-849" width="1080" height="1880" />
     </state>
+    <state x="-1039" y="-267" key="SettingsEditor/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605124307492" />
     <state x="41" y="582" key="SettingsEditor/0.0.1080.1880/1080.852.1920.1040@0.0.1080.1880" timestamp="1604699499893" />
     <state width="548" height="948" key="XDebugger.FullValuePopup" timestamp="1604707063285">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state width="548" height="948" key="XDebugger.FullValuePopup/0.0.1080.1880/-1920.836.1920.1040@0.0.1080.1880" timestamp="1604707063285" />
-    <state x="420" y="423" key="com.intellij.ide.util.TipDialog" timestamp="1605052057072">
+    <state x="420" y="423" key="com.intellij.ide.util.TipDialog" timestamp="1605285551686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="420" y="423" key="com.intellij.ide.util.TipDialog/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605052057072" />
+    <state x="-844" y="-84" key="com.intellij.ide.util.TipDialog/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605115269081" />
+    <state x="420" y="423" key="com.intellij.ide.util.TipDialog/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605106331048" />
     <state x="236" y="764" key="com.intellij.ide.util.TipDialog/0.0.1080.1880/1080.855.1920.1040@0.0.1080.1880" timestamp="1604832727410" />
     <state x="420" y="423" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605003669449" />
+    <state x="420" y="423" key="com.intellij.ide.util.TipDialog/116.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605217082650" />
+    <state x="420" y="423" key="com.intellij.ide.util.TipDialog/116.-1080.1920.1040/0.0.1920.1040@116.-1080.1920.1040" timestamp="1605285551686" />
     <state x="591" y="217" width="737" height="606" key="find.popup" timestamp="1604913078830">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -148,17 +197,25 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="228" y="786" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1080.1880/1080.852.1920.1040@0.0.1080.1880" timestamp="1604699461098" />
-    <state x="196" y="450" key="run.anything.popup" timestamp="1604833481297">
-      <screen x="0" y="0" width="1080" height="1880" />
+    <state x="817" y="-917" key="refactoring.ChangeSignatureDialog" timestamp="1605290822664">
+      <screen x="116" y="-1080" width="1920" height="1040" />
     </state>
+    <state x="817" y="-917" key="refactoring.ChangeSignatureDialog/116.-1080.1920.1040/0.0.1920.1040@116.-1080.1920.1040" timestamp="1605290822664" />
+    <state x="464" y="-831" key="run.anything.popup" timestamp="1605285950276">
+      <screen x="116" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-884" y="-399" key="run.anything.popup/-1080.-849.1080.1880/0.0.1920.1040@-1080.-849.1080.1880" timestamp="1605118785596" />
     <state x="196" y="450" key="run.anything.popup/0.0.1080.1880/-1920.836.1920.1040@0.0.1080.1880" timestamp="1604707896364" />
     <state x="196" y="450" key="run.anything.popup/0.0.1080.1880/1080.855.1920.1040@0.0.1080.1880" timestamp="1604833481297" />
-    <state x="361" y="241" width="670" height="58" key="search.everywhere.popup" timestamp="1604916330625">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="464" y="-831" key="run.anything.popup/116.-1080.1920.1040/0.0.1920.1040@116.-1080.1920.1040" timestamp="1605285950276" />
+    <state x="477" y="-839" width="672" height="160" key="search.everywhere.popup" timestamp="1605290948516">
+      <screen x="116" y="-1080" width="1920" height="1040" />
     </state>
+    <state x="361" y="241" width="672" height="160" key="search.everywhere.popup/-1080.-849.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605106339699" />
     <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/0.0.1080.1880/-1920.836.1920.1040@0.0.1080.1880" timestamp="1604705875588" />
     <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/0.0.1080.1880/1080.852.1920.1040@0.0.1080.1880" timestamp="1604699526604" />
     <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/0.0.1080.1880/1080.855.1920.1040@0.0.1080.1880" timestamp="1604853227371" />
     <state x="361" y="241" width="670" height="58" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604916330625" />
+    <state x="477" y="-839" width="672" height="160" key="search.everywhere.popup/116.-1080.1920.1040/0.0.1920.1040@116.-1080.1920.1040" timestamp="1605290948516" />
   </component>
 </project>

@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Dev/Projects/C++/PEA/PEA_Projekt1/Graph.cpp" "D:/Dev/Projects/C++/PEA/PEA_Projekt1/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/Graph.cpp.obj"
+  "D:/Dev/Projects/C++/PEA/PEA_Projekt1/Node.cpp" "D:/Dev/Projects/C++/PEA/PEA_Projekt1/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/Node.cpp.obj"
   "D:/Dev/Projects/C++/PEA/PEA_Projekt1/main.cpp" "D:/Dev/Projects/C++/PEA/PEA_Projekt1/cmake-build-debug/CMakeFiles/PEA_Projekt1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

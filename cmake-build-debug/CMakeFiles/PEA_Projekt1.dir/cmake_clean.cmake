@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/PEA_Projekt1.dir/Graph.cpp.obj"
+  "CMakeFiles/PEA_Projekt1.dir/Node.cpp.obj"
   "CMakeFiles/PEA_Projekt1.dir/main.cpp.obj"
   "PEA_Projekt1.exe"
   "PEA_Projekt1.exe.manifest"

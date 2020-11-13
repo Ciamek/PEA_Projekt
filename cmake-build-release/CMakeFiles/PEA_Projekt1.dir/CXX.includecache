@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Dev/Projects/C++/PEA/PEA_Projekt1/Graph.cpp
+random
+-
+iostream
+-
+fstream
+-
+chrono
+-
+algorithm
+-
+Graph.h
+D:/Dev/Projects/C++/PEA/PEA_Projekt1/Graph.h
+
+D:/Dev/Projects/C++/PEA/PEA_Projekt1/Graph.h
+string
+-
+vector
+-
+
